@@ -1,0 +1,24 @@
+h1{
+    /*outline: 1px solid yellow;*/
+    text-align: center;
+}
+.caja{
+    /*outline: 1px solid red;*/
+    /*debo tener cuidado con float*/
+    /*float es una propiedad de posicionamiento*/
+    width: 420px;
+    padding: 15px;
+    border: 1px solid #999;
+    margin-left: 4px;
+    
+    box-sizing: border-box;
+    float: left;
+}
+img{
+    /*outline: 2px solid blue;*/
+    max-width: 100%;
+    
+}
+p{
+    /*outline: 2px solid orange;*/
+}
